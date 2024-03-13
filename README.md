@@ -37,6 +37,6 @@ df = read_data(filename)
 filtered_df = filter_data(df, min_age=7, eye_condition=True, gender=0, education_level='2nd')
 
 # Export filtered data
-cdt.export_data(filtered_df, 'filtered_data.csv')
+export_data(filtered_df, 'filtered_data.csv')
 ```
 
