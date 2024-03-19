@@ -33,7 +33,7 @@ def filter_data(df, min_age_in_months=None, max_age_in_months=None, gender=None,
             if start_col is not None and end_col is not None:
                 selected_columns.extend(range(start_col - 1, end_col))
 
-    # Select desired columns from the filtered dataframe
+    # Select desired columns from the dataframe
     filtered_df = filtered_df.iloc[:, selected_columns]
 
     return filtered_df
