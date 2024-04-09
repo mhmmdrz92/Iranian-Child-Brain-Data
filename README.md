@@ -44,3 +44,19 @@ export_data(filtered_df, 'filtered_data.csv')
 - `export_data(df, filename)`: Exports the filtered cognitive data to a new CSV file.
 
 
+### Data Usage Agreement
+
+By accessing and using the data provided in this dataset, you agree to the following terms and
+conditions:
+1. Permitted Use: The data provided in this dataset can be used solely for research purposes.
+2. Attribution: Proper acknowledgment of the dataset's source must be provided in any publication, presentation, or derivative work resulting from the use of this data.
+3. No Redistribution: The data cannot be redistributed or shared with any third party without explicit permission from the dataset's owners.
+4. No Commercial Use: The data cannot be used for commercial purposes without prior written consent from the dataset's owners.
+5. Data Integrity: Users are responsible for ensuring the integrity and accuracy of any analyses or interpretations derived from the data.
+6. Ethical Considerations: Users must adhere to ethical standards and regulations governing research involving human participants when using this data.
+7. Liability: The dataset owners disclaim any liability for any damages or losses resulting from the use or misuse of the data.
+8. 
+By accessing and using the data, you acknowledge that you have read, understood, and agreed to abide
+by the terms and conditions outlined above.
+
+
