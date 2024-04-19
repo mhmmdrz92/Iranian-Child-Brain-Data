@@ -3,7 +3,8 @@
 This toolkit provides Python functions for reading, filtering, and exporting cognitive data from a CSV file. It is designed to facilitate the analysis of cognitive data collected from various tasks and questionnaires.
 
 ## Dataset Information
-This repository contains cognitive feature data corresponding to the study "Iranian 6-11 years age population-based EEG, ERP, and cognition dataset". Raw EEG and ERP files can be downloaded from this link
+This repository contains cognitive feature data corresponding to the study "Iranian 6-11 years age population-based EEG, ERP, and cognition dataset". Raw EEG and ERP files can be downloaded from this link:
+https://ibmhi.ir/iranian-child-brain-dataset/
 ## Usage
 
 ### Installation
